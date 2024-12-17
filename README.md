@@ -72,5 +72,3 @@ if _name_ == "_main_":
     user_query = "What is the exact unemployment information based on type of degree input" 
     main(pdf_path, user_query)
 
-idi yevaroo chesi pettaru github lo 
-nuvvu just code chesesi petteyi# sitafal-task1
